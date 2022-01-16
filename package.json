@@ -1,0 +1,27 @@
+{
+  "name": "wordle-solver",
+  "version": "1.0.0",
+  "description": "Wordle solver using dictionary",
+  "main": "dist/index.js",
+  "source": "src/index.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojandevic/wordle-solver.git"
+  },
+  "keywords": [
+    "wordle",
+    "solver"
+  ],
+  "author": "Bojan Devic <bojan@bojandevic.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bojandevic/wordle-solver/issues"
+  },
+  "homepage": "https://github.com/bojandevic/wordle-solver#readme",
+  "devDependencies": {
+    "parcel": "^2.2.0"
+  }
+}
