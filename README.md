@@ -15,3 +15,6 @@ Add a bookmark in your browser with the following URL:
 javascript:(function(){const s=document.createElement('SCRIPT'); s.type='text/javascript'; s.src='https://bojandevic.com/wordle.js'; document.getElementsByTagName('head')[0].appendChild(s);})();
 ```
 go to the [Wordle website](https://www.powerlanguage.co.uk/wordle/) and just press newly added the bookmark and watch how it solves your wordle.
+
+# Can solver continue current wordle where I left it?
+Yes it can, but it is intended to solve wordles from scratch.
