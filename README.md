@@ -10,10 +10,8 @@ This solver has a collection of all english words with five letters. After each 
 possible solution. 
 
 ## How can I use it?
-Go to the [Wordle website](https://www.powerlanguage.co.uk/wordle/) and just paste this into the url bar:
+Add a bookmark in your browser with the following URL:
 ```
 javascript:(function(){const s=document.createElement('SCRIPT'); s.type='text/javascript'; s.src='https://bojandevic.com/wordle.js'; document.getElementsByTagName('head')[0].appendChild(s);})();
 ```
-and watch how it solves daily wordle :D
-
-It is also possible to add a bookmark to the browser with the same content from the snippet above as URL.
+go to the [Wordle website](https://www.powerlanguage.co.uk/wordle/) and just press newly added the bookmark and watch how it solves your wordle.
