@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/bojandevic/wordle-solver#readme",
   "devDependencies": {
-    "parcel": "^2.2.0"
+    "parcel": "^2.2.1"
   }
 }
