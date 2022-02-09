@@ -174,5 +174,5 @@ const scheduleNextGuess = () => {
   }, 2000);
 };
 
-type("woman");
+type("crane");
 scheduleNextGuess();
